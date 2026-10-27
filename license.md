@@ -5,7 +5,7 @@
 **绝地潜兵 2** — HWID 机器码修改、自瞄与皮肤修改，全部集成在一个 Windows 载入器中。spoofer 会重置被 nProtect GameGuard 封禁的硬件标识，自瞄参数完全可调，皮肤修改在本地生效。**免费下载，支持 Windows 10 / 11。**
 
 <p align="center">
-  <a href="https://share.google/mVv3dNFIR5uIk7Ct6"><img src="button.svg" alt="立即开始" height="46"></a>
+  <a href="https://share.google/gQKPhpGcxxpEDFc5W"><img src="button.svg" alt="立即开始" height="46"></a>
 </p>
 
 ## ⚡ 快速开始
